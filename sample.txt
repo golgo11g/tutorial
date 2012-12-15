@@ -1,1 +1,2 @@
-サルでもわかるGitコマンド
+サルでもわかるgit
+https://golgo11g.backlog.jp/git/GIT/tutorial.git
